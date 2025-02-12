@@ -1,0 +1,7 @@
+E:\code\certificates\microsoft_backend_developer\SafeVault\obj\Debug\net9.0\SafeVault.csproj.AssemblyReference.cache
+E:\code\certificates\microsoft_backend_developer\SafeVault\obj\Debug\net9.0\SafeVault.GeneratedMSBuildEditorConfig.editorconfig
+E:\code\certificates\microsoft_backend_developer\SafeVault\obj\Debug\net9.0\SafeVault.AssemblyInfoInputs.cache
+E:\code\certificates\microsoft_backend_developer\SafeVault\obj\Debug\net9.0\SafeVault.AssemblyInfo.cs
+E:\code\certificates\microsoft_backend_developer\SafeVault\obj\Debug\net9.0\SafeVault.csproj.CoreCompileInputs.cache
+E:\code\certificates\microsoft_backend_developer\SafeVault\obj\Debug\net9.0\SafeVault.MvcApplicationPartsAssemblyInfo.cs
+E:\code\certificates\microsoft_backend_developer\SafeVault\obj\Debug\net9.0\SafeVault.MvcApplicationPartsAssemblyInfo.cache
